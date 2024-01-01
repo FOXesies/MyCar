@@ -8,11 +8,11 @@
 
     <ImageView
         android:id="@+id/app_logo"
-        android:layout_width="350dp"
-        android:layout_height="350dp"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:src="@drawable/logo_auth"
+        android:layout_marginTop="70dp"
+        android:src="@drawable/logo_2"
 
         tools:ignore="ContentDescription"
     />
@@ -23,14 +23,14 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/app_logo"
 
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="70dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:background="@drawable/btn_blue"
+        android:background="@drawable/btn_yel"
         android:padding="10dp"
         android:text="Войти"
         android:textAllCaps="false"
-        android:textColor="@color/white"
+        android:textColor="#052833"
         android:textSize="26sp"
         tools:ignore="HardcodedText"
 
@@ -48,7 +48,7 @@
         android:layout_marginRight="20dp"
         android:text="Регистрация"
         android:textSize="26sp"
-        android:background="@drawable/btn_grey"
+        android:background="@drawable/btn_dark"
         android:textColor="@color/white"
         android:textAllCaps="false"
         android:padding="10dp"

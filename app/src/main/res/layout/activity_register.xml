@@ -9,11 +9,11 @@
 
     <ImageView
         android:id="@+id/app_logo_auth"
-        android:layout_width="250dp"
-        android:layout_height="250dp"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:src="@drawable/logo_auth"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/logo_2"
 
         tools:ignore="ContentDescription"
         />
@@ -92,12 +92,12 @@
         android:layout_below="@+id/register_password_input"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:layout_marginTop="20dp"
-        android:background="@drawable/btn_blue"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_dark"
         android:padding="10dp"
         android:text="Регистрация"
         android:textAllCaps="false"
-        android:textColor="@color/white"
+        android:textColor="#ffffff"
         android:textSize="26sp"
         tools:ignore="HardcodedText" />
 
