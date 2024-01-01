@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "437339485752",
+    "firebase_url": "https://mycar-202bd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mycar-202bd",
+    "storage_bucket": "mycar-202bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437339485752:android:2bfdfa852fc066efedd8cd",
+        "android_client_info": {
+          "package_name": "com.example.mycar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo5Y8r2--Ijz0AZNOuowlbSrSSoBGe1Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

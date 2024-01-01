@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MyCar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">UserName</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string-array name="text_carTypes">
+        <item>Самосвалы колёсные автомобили с
+            большой грузоподъемностью.
+            Основная особенность этих машин
+            автоматический отбрасывающийся
+            кузов, обеспечивающий максимально
+            простую разгрузку, особенно если
+            дело касается сыпучих материалов и
+            строительных смесей.</item>
+        <item>Прежде чем начинать строить объект,
+            необходимо подготовить участок для
+            строительства. бульдозеры (основной
+            рабочий элемент отвал) гусеничные и
+            колесные, с поворотным
+            неповоротным отвалом либо
+            универсальные.</item>
+        <item>Экскаваторы (основной рабочий
+            элемент ковш) гусеничные и
+            колесные, бульдозеры, цепные,
+            роторные, карьерные, мини-
+            экскаваторы, экскаваторы с функцией
+            погрузчика.</item>
+        <item>Основная задача этого вида
+            спецтехники доставка строительных
+            материалов на большую высоту.
+            Использование строительного крана
+            целесообразно в процессе
+            строительства высоких зданий либо
+            объектов, значительно углубленных в
+            землю.</item>
+        <item>Для того, чтобы максимально
+            упростить процесс погрузки и
+            разгрузки грузовых автомобилей, в
+            строительстве используются
+            погрузчики.</item>
+    </string-array>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
